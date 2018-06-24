@@ -1,0 +1,78 @@
+﻿@using Jude.ES365.ShopApp.DatAcc.Models
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ES365 E-Commerce @ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+  
+
+</head>
+<body>
+<div class="row">
+    <div class="col-md-1">
+
+    </div>
+    <div class="col-md-10">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">ES365 E-Commerce </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="@Url.Action("Index","Home")">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("AllProducts","Shop")">All Our Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("OnSale","Shop")">On Sale</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Shop By category
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+
+                            @if ((List<Category>) TempData["CategoriesList"] != null && ((List<Category>) TempData["CategoriesList"]).Count > 1)
+                            {
+                                TempData.Keep();
+                                foreach (var category in (List<Category>) TempData["CategoriesList"])
+                                {
+                                    <a class="dropdown-item" href="@Url.Action("GetProductByCategory", "Shop", new { categoryid = @category.ID })">@category.ShortName</a>
+                                }
+                            }
+
+                        </div>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <a class="btn btn-outline-success my-2 my-sm-0" href="@Url.Action("Checkout","Shop")">My Cart @Session["CartCount"] </a>
+                </form>
+            </div>
+        </nav>
+    </div>
+    <div class="col-md-1">
+
+    </div>
+</div>
+<div class="container body-content">
+    <div class="row" style="margin-bottom: 10px; margin-top: 20px">
+
+    </div>
+    @RenderBody()
+    <hr/>
+
+</div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", false)
+</body>
+</html>

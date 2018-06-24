@@ -1,0 +1,55 @@
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\Jude.ES365.ShopApp.DatAcc.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csproj.CoreCompileInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csproj.CopyComplete
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.pdb
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csprojResolveAssemblyReference.cache
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Helpers.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Mvc.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Razor.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Helpers.xml
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Mvc.xml
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Razor.xml
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.xml
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.Migrations.UpdatedProductTable.resources
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csproj.GenerateResource.cache
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.Migrations.UpdatedProductTable_change.resources
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\Jude.ES365.ShopApp.DatAcc.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.SqlServer.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Helpers.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Mvc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Razor.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Razor.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\EntityFramework.SqlServer.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Helpers.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Mvc.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.Razor.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\bin\Debug\System.Web.WebPages.Razor.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csprojResolveAssemblyReference.cache
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csproj.CoreCompileInputs.cache
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csproj.CopyComplete
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.Migrations.Fuiy.resources
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.DatAcc\obj\Debug\Jude.ES365.ShopApp.DatAcc.csproj.GenerateResource.cache

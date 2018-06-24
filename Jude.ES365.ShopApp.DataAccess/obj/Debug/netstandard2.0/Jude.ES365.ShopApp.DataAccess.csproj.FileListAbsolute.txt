@@ -1,0 +1,13 @@
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.deps.json
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.AssemblyInfoInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.AssemblyInfo.cs
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.csproj.CopyComplete
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.DataAccess\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.pdb

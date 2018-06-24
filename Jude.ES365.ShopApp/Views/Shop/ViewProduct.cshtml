@@ -1,0 +1,97 @@
+﻿@model Jude.ES365.ShopApp.DatAcc.Models.Product
+
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<h2>ViewProduct</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.Code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.Code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsStockAvailable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsStockAvailable)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsOnSale)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsOnSale)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalePrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalePrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfViewsByCustomer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfViewsByCustomer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rating)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rating)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "AllProducts")
+</p>

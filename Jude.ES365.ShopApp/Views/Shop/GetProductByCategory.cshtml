@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Jude.ES365.ShopApp.DatAcc.Models.Product>
+
+@{
+    ViewBag.Title = "Products";
+}
+<script src="~/Scripts/jquery-3.0.0.js"></script>
+
+<div class="row">
+
+
+    @if (Model.ToList().Count < 1)
+    {
+        <h4>There is no Products currently.</h4>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            <div class="col-md-4">
+
+                <div class="card" style="margin-bottom: 20px; width: 18rem;">
+                    <img class="card-img-top" src="~/Images/product.jpeg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name </h5>
+                        @if (item.IsOnSale)
+                        {
+                            <h6 class="card-subtitle mb-2 text-muted"><span style="text-decoration: line-through">R @item.Price</span> R @item.SalePrice</h6>
+                        }
+                        else
+                        {
+                            <h6 class="card-subtitle mb-2 text-muted">R @item.Price</h6>
+                        }
+
+                        @if (item.Description.Length > 101)
+                        {
+                            <p class="card-text">@item.Description.Substring(0, 100)</p>
+                        }
+                        else
+                        {
+                            <p class="card-text">@item.Description</p>
+                        }
+                        <div class="row">
+
+                            <div class="col-md-5">
+                                <a href="@Url.Action("ViewProduct", "Shop", new {productId = item.ID})" class="btn btn-primary">View Product</a>
+                            </div>
+                            <div class="col-md-1">
+
+                            </div>
+                            <div class="col-md-5">
+                                <a href="javascript:void(0);" onclick="addToCart('' + '@item.ID' + '')" return false; id="buttonAddToCart" class="btn btn-primary">Add to Cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        }
+    }
+
+</div>
+
+<script type="text/javascript">
+
+    function addToCart(productid) {
+
+        $.ajax({
+            // edit to add steve's suggestion.
+            //url: "/ControllerName/ActionName",
+            url: '/Shop/AddToCart?productid=' + productid,
+            success: function(data) {
+                // your data could be a View or Json or what ever you returned in your action method
+                // parse your data here
+                alert("You product has been added succesfully");
+                location.reload();
+            }
+        });
+
+    }
+
+
+</script>

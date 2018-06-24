@@ -1,0 +1,145 @@
+﻿@model Jude.ES365.ShopApp.DatAcc.Models.Order
+
+@{
+    ViewBag.Title = "Check out";
+}
+<script src="~/Scripts/jquery-3.0.0.js"></script>
+
+<div class="container">
+    @if (@Model != null)
+    {
+        <div class="py-5 text-center">
+            <h2>Checkout form</h2>
+            <p class="lead">Hello @Model.Customer.FirstName below is your order please review the items you have purchased, your billing information and then and complete</p>
+        </div>
+        <div class="row">
+            <div class="col-md-6 order-md-2 mb-4">
+
+
+                <h4 class="d-flex justify-content-between align-items-center mb-3">
+                    <span class="text-muted">Your cart</span>
+                    <span class="badge badge-secondary badge-pill">@Model.NumberOfItemsPurchased</span>
+                </h4>
+                <ul class="list-group mb-3">
+
+                    @if (Model.OrderProducts.Count > 0)
+                    {
+                        var orderProducts = Model.OrderProducts.ToList();
+
+                        foreach (var product in orderProducts)
+                        {
+                            <li class="list-group-item d-flex justify-content-between lh-condensed">
+                                <div>
+                                    @{
+
+                                        try
+                                        {
+                                            var pro = product.Product;
+                                            var productUniqueName = pro.Name;
+                                            var pricePerUnit = pro.Price.ToString();
+
+                                            <h6 class="my-0">@productUniqueName</h6>
+                                            <h6 class="text-muted" style="font-size: 12px; margin: 8px;">Quantity : @product.Quantity</h6>
+                                            <h6 class="text-muted" style="font-size: 12px">Unit Price : @pricePerUnit</h6>
+                                        }
+                                        catch (Exception exc)
+                                        {
+                                            var excpmes = exc.Message;
+                                        }
+                                    }
+                                </div>
+                                <span class="text-muted">R @product.TotalPrice</span>
+                            </li>
+                        }
+                    }
+
+                    <li class="list-group-item d-flex justify-content-between bg-light">
+
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span class="text-success">Total</span>
+                        <strong class="text-success">R @Model.TotalPayableAmout</strong>
+                    </li>
+                </ul>
+                <form class="card p-2">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Promo code">
+                        <div class="input-group-append">
+                            <button type="submit" class="btn btn-secondary">Redeem</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6 order-md-1">
+                <h4 class="mb-3">Billing address</h4>
+                <form class="needs-validation" novalidate="">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="firstName">First name</label>
+                            <input type="text" class="form-control" id="firstName" placeholder="" value="@Model.Customer.FirstName" disabled="disabled">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="lastName">Last name</label>
+                            <input type="text" class="form-control" id="lastName" placeholder="" value="@Model.Customer.LastName" disabled="disabled">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="phone">Phone</label>
+                            <input type="text" class="form-control" id="phone" placeholder="" value="@Model.Customer.Phone" disabled="disabled">
+
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="email">E-mail</label>
+                            <input type="text" class="form-control" id="email" placeholder="" value="@Model.Customer.Email" disabled="disabled">
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="addressline1">Address Line </label>
+                            <input type="text" class="form-control" id="addressline1" placeholder="" value="@Model.Customer.Address.Substring(0, 28)" disabled="disabled">
+
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="addressline2">Address Line 2</label>
+                            <input type="text" class="form-control" id="addressline2" placeholder="" value="@Model.Customer.Address.Substring(28)" disabled="disabled">
+
+                        </div>
+                    </div>
+
+                    <hr class="mb-4">
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="tandc">
+                        <label class="custom-control-label" for="tandc">I accept the terms and conditions of E365 Shop.</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="emailinvoice">
+                        <label class="custom-control-label" for="emailinvoice">E-mail my Invoice.</label>
+                    </div>
+                    <hr class="mb-4">
+
+                    <button class="btn btn-primary btn-lg btn-block" id="buttonCompleteCheck" type="submit">Checkout</button>
+                </form>
+            </div>
+        </div>
+    }
+    else
+    {
+        <h2>Your cart is empty</h2>
+    }
+
+
+
+</div>
+
+<script>
+
+  
+
+    function completeChheckout(parameters) {
+
+        console.log(parameters);
+    }
+
+</script>
