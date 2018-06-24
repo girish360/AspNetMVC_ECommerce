@@ -1,0 +1,14 @@
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.deps.json
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\bin\Debug\netstandard2.0\Jude.ES365.ShopApp.DataAccess.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.csprojResolveAssemblyReference.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.csproj.CoreCompileInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.AssemblyInfoInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.AssemblyInfo.cs
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.csproj.CopyComplete
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.Logic\obj\Debug\netstandard2.0\Jude.ES365.ShopApp.Logic.pdb

@@ -1,0 +1,62 @@
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.csprojResolveAssemblyReference.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.csproj.CoreCompileInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.BLogic.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.BLogic.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.BLogic.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\CommonServiceLocator.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Abstractions.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Configuration.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Container.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.Configuration.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.RegistrationByConvention.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.ServiceLocation.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.DatAcc.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\CommonServiceLocator.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Abstractions.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Configuration.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Container.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.Configuration.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.RegistrationByConvention.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.ServiceLocation.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.csproj.CopyComplete
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.BLogic.dll.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.BLogic.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.BLogic.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\CommonServiceLocator.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Abstractions.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Configuration.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Container.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.Configuration.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.RegistrationByConvention.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.ServiceLocation.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.DatAcc.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Jude.ES365.ShopApp.DatAcc.dll.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\CommonServiceLocator.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Abstractions.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Configuration.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Container.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.Interception.Configuration.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\bin\Debug\Unity.ServiceLocation.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.csprojResolveAssemblyReference.cache
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.csproj.CoreCompileInputs.cache
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.csproj.CopyComplete
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp.BLogic\obj\Debug\Jude.ES365.ShopApp.BLogic.pdb

@@ -1,0 +1,260 @@
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\ApplicationInsights.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\csc.exe
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\csc.exe.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\csc.rsp
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\csi.exe
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\csi.exe.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\csi.rsp
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.AppContext.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Console.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.IO.Compression.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.IO.Pipes.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.AccessControl.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.Claims.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Threading.Thread.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.ValueTuple.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Xml.XPath.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\vbc.exe
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\vbc.exe.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\vbc.rsp
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\VBCSCompiler.exe
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Antlr3.Runtime.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\EntityFramework.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\EntityFramework.SqlServer.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.Web.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Newtonsoft.Json.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Owin.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Helpers.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Mvc.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Optimization.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Razor.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.WebPages.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.WebPages.Razor.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\WebGrease.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Helpers.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Mvc.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Optimization.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.Razor.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.WebPages.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\System.Web.WebPages.Razor.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Antlr3.Runtime.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Newtonsoft.Json.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\EntityFramework.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\EntityFramework.SqlServer.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Microsoft.AI.Web.xml
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.csprojResolveAssemblyReference.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.csproj.CoreCompileInputs.cache
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.csproj.CopyComplete
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.BLogic.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.DatAcc.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Unity.Abstractions.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Unity.Container.dll
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.BLogic.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.BLogic.dll.config
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.DatAcc.pdb
+c:\users\jude.babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.DatAcc.dll.config
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\Unity.Mvc.dll
+C:\Users\Jude.Babandakana\source\repos\Jude.ES365.ShopApp\Jude.ES365.ShopApp\bin\WebActivatorEx.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\ApplicationInsights.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.dll.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\csc.exe
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\csc.exe.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\csc.rsp
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\csi.exe
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\csi.exe.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\csi.rsp
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.AppContext.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Collections.Immutable.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Console.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.IO.Compression.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.IO.FileSystem.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.IO.Pipes.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.AccessControl.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.Claims.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Threading.Thread.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.ValueTuple.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Xml.XPath.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\vbc.exe
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\vbc.exe.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\vbc.rsp
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\VBCSCompiler.exe
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\roslyn\VBCSCompiler.exe.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Antlr3.Runtime.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\EntityFramework.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\EntityFramework.SqlServer.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.BLogic.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.DatAcc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.Web.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.WindowsServer.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.ApplicationInsights.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Google.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Web.Infrastructure.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Newtonsoft.Json.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Owin.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Helpers.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Mvc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Optimization.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Razor.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.WebPages.Deployment.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.WebPages.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.WebPages.Razor.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Unity.Abstractions.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Unity.Container.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Unity.Mvc.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\WebActivatorEx.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\WebGrease.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.BLogic.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.BLogic.dll.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.DatAcc.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Jude.ES365.ShopApp.DatAcc.dll.config
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Helpers.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Mvc.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Optimization.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.Razor.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.WebPages.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.WebPages.Deployment.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\System.Web.WebPages.Razor.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Antlr3.Runtime.pdb
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Newtonsoft.Json.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\EntityFramework.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\EntityFramework.SqlServer.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Google.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.ApplicationInsights.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.WindowsServer.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\bin\Microsoft.AI.Web.xml
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.csprojResolveAssemblyReference.cache
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.csproj.CoreCompileInputs.cache
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.csproj.CopyComplete
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.dll
+C:\HomeFolders\jude.babandakana\My Documents\BranchOut\AspNetMVC_ECommerce\Jude.ES365.ShopApp\obj\Debug\Jude.ES365.ShopApp.pdb

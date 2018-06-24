@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Admin Landing";
+}
+
+<div class="jumbotron">
+    <h1>ES365 E-Commerce</h1>
+    <p class="lead">Welcome to our e-commerce application, this is the default admin landing page, please click the button below to add purchasable products. </p>
+    <p><a href="@Url.Action("CreateNewProduct","AdminPortal")" class="btn btn-primary btn-lg">Add Product</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>1. Add Products</h2>
+        <p>
+           Add one or more purchasable product by clicking the "Add Product buttons"
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>2. Shop</h2>
+        <p>Navigate to shopping page using the nav bar and view the purchasable product(s) that you have created</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Add to Cart/Checkout</h2>
+        <p>View product and add desire product(s) to your cart then check out.</p>
+    </div>
+</div>
